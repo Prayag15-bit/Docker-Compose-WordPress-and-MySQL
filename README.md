@@ -1,3 +1,2 @@
 # Docker_Project
-This is my docker repository, where I post my docker project
-this is a test
+A simple Docker-compose project which will launch WordPress and MySQL Database on top of Docker as container-based applications
